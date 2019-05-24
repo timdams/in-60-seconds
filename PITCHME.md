@@ -1,6 +1,13 @@
 # Let's Get Started
 
 Hello everyone.
+
++++
+
+#I'm Tim Dams
+Good to see you.
+*Meten is weten*
+
 ---
 
 ## Add Some Slide Candy
